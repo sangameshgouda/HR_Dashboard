@@ -11,7 +11,9 @@ The dashboard is divided into **three key sections**:
 
 ---
 ## HR Detailed Dashbaord
-[![Employee Records](images/employees.png)](https://github.com/sangameshgouda/HR_Dashboard/blob/main/images/HR%20Summary.png)
+
+<img width="1135" height="651" alt="image" src="https://github.com/user-attachments/assets/8353f68f-4aed-4c48-8344-e1e4a241649f" />
+
 
 ## 🔎 Summary View
 
@@ -56,7 +58,8 @@ The dashboard provides a **detailed employee directory** with filters for:
 - Salaries range from **$55K to $92K** with tenure spanning **2–9 years**  
 
 📷 **Employee Records Table**  
-[![Employee Records](images/employees.png)](https://github.com/sangameshgouda/HR_Dashboard/blob/main/images/HR%20Summary.png)
+<img width="1135" height="651" alt="image" src="https://github.com/user-attachments/assets/709f54b5-73ab-418f-8d82-280e574578b1" />
+
 
 ---
 
