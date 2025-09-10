@@ -11,7 +11,7 @@ The dashboard is divided into **three key sections**:
 
 ---
 ## HR Detailed Dashbaord
-![Employee Records](images/employees.png)
+[![Employee Records](images/employees.png)](https://github.com/sangameshgouda/HR_Dashboard/blob/main/images/HR%20Summary.png)
 
 ## 🔎 Summary View
 
