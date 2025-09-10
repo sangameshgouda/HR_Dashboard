@@ -56,7 +56,7 @@ The dashboard provides a **detailed employee directory** with filters for:
 - Salaries range from **$55K to $92K** with tenure spanning **2–9 years**  
 
 📷 **Employee Records Table**  
-![Employee Records](images/employees.png)
+[![Employee Records](images/employees.png)](https://github.com/sangameshgouda/HR_Dashboard/blob/main/images/HR%20Summary.png)
 
 ---
 
